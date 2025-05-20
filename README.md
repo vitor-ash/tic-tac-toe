@@ -5,20 +5,20 @@ A simple Tic-Tac-Toe game in C++ played in the terminal. This little game is bas
 
 ## Directories
 
-tic-tac-toe-main
-├── README.md
-├── LICENSE
-├── assets
-│   ├── newboard.png
-│   ├── choosing.png
-│   ├── insidegame.png
-│   └── winmessage.png
-└── main.cpp
+tic-tac-toe-main <br />
+├── README.md <br />
+├── LICENSE <br />
+├── assets <br />
+│   ├── newboard.png <br />
+│   ├── choosing.png <br />
+│   ├── insidegame.png <br />
+│   └── winmessage.png <br />
+└── main.cpp <br />
 
-- ```README.md```: readme file. <br />
-- ```LICENSE```: MIT license. <br />
-- ```assets```: folder where pngs files are stored. <br /> 
-- ```main.cpp```: tic-tac-toe program. <br />
+- ```README.md```: readme file.
+- ```LICENSE```: MIT license.
+- ```assets```: folder where pngs files are stored.
+- ```main.cpp```: tic-tac-toe program.
 
 ---
 
