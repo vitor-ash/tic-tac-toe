@@ -18,7 +18,7 @@ Once the position is choosen, the board updates: <br />
 ---
 
 Finally, the second player (O) has to choose one remaining position, and this way the game keeps running.
-In case of someone wins or draws, a message like this will appear:
+In case of someone wins or draws, a message like this will appear: <br />
 ![final](assets/winmessage.png)
 
 ---
