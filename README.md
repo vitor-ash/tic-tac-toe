@@ -15,10 +15,10 @@ tic-tac-toe-main
 │   └── winmessage.png
 └── main.cpp
 
-- ```README.md```: readme file.
-- ```LICENSE```: MIT license.
-- ```assets```: folder where pngs files are stored.
-- ```main.cpp```: tic-tac-toe program.
+- ```README.md```: readme file. <br />
+- ```LICENSE```: MIT license. <br />
+- ```assets```: folder where pngs files are stored. <br /> 
+- ```main.cpp```: tic-tac-toe program. <br />
 
 ---
 
