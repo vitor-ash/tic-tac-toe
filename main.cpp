@@ -143,6 +143,7 @@ int main()
         show_board(game);
 
         if (winner == 1) {
+            cout << endl;
             cout << "Congratulations! Player 1 won!" << endl;
             keep_playing = true;
         } else if (winner == 2) {

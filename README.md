@@ -17,5 +17,17 @@ Once the position is choosen, the board updates: <br />
 
 ---
 
-## What is needed
-To be able to play Tic-Tac-Toe, you'll need the GCC compiler instaled on your system, so in case you don't have it installed yet, check it out here: [GCC Compilator](https://gcc.gnu.org/install/)
+Finally, the second player (O) has to choose one remaining position, and this way the game keeps running.
+In case of someone wins or draws, a message like this will appear:
+![final](assets/winmessage)
+
+---
+
+## What is needed to play
+- To be able to play Tic-Tac-Toe, you'll need the GCC compiler instaled on your system, so in case you don't have it installed yet, check it out here: [GCC Compilator](https://gcc.gnu.org/install/)
+- If you use Windows, you can learn how to install GCC here: [GCC on Windows](https://gcc.gnu.org/install/binaries.html)
+
+---
+
+## Licence
+This project is licensed under the MIT license. For more information, see the [License](LICENSE) file.
