@@ -1,6 +1,27 @@
 # Tic-Tac-Toe
 A simple Tic-Tac-Toe game in C++ played in the terminal. This little game is based on a [Neps Academy](https://neps.academy/br/dashboard) project with the same name ([Tic-Tac-Toe](https://neps.academy/project/22))
 
+---
+
+## Directories
+
+tic-tac-toe-main
+├── README.md
+├── LICENSE
+├── assets
+│   ├── newboard.png
+│   ├── choosing.png
+│   ├── insidegame.png
+│   └── winmessage.png
+└── main.cpp
+
+- ```README.md```: readme file.
+- ```LICENSE```: MIT license.
+- ```assets```: folder where pngs files are stored.
+- ```main.cpp```: tic-tac-toe program.
+
+---
+
 ## Playing Tic-Tac-Toe
 At the beginning, we have a 3x3 board, numbered from 1 to 9, like this:
 ![board](assets/insidegame.png)
