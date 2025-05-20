@@ -26,11 +26,11 @@ Then the second player (O) has to choose one remaining position, the game contin
 - To play Tic-Tac-Toe, you'll need the GCC compiler instaled on your system, so in case you don't have it installed yet, check it out here: [GCC Compilator](https://gcc.gnu.org/install/)
 - If you use Windows, you can learn how to install GCC here: [GCC on Windows](https://gcc.gnu.org/install/binaries.html)
 
-Once you've installed the GCC compilator, now you can get the [Tic-Tac-Toe code](https://raw.githubusercontent.com/vitor-ash/tic-tac-toe/refs/heads/main/main.cpp). Now open your terminal and navigate to the folder where ```main.cpp``` is located is installed (e.g.: C:\Users\YourName\Documents\my_cpp_project\src\main.cpp on Windows). Use this command:
-```cd <path-name>```
-Now, you can run our Tic-Tac-Toe game like this:
-```g++ main.cpp -o main.exe```
-Now, just run our executable file:
+Once you've installed the GCC compilator, now you can get the [Tic-Tac-Toe code](https://raw.githubusercontent.com/vitor-ash/tic-tac-toe/refs/heads/main/main.cpp). Now open your terminal and navigate to the folder where ```main.cpp``` is located is installed (e.g.: C:\Users\YourName\Documents\my_cpp_project\src\main.cpp on Windows). Use this command: <br />
+```cd <path-name>``` <br />
+Now, you can run our Tic-Tac-Toe game like this: <br />
+```g++ main.cpp -o main.exe``` <br />
+Now, just run our executable file: <br />
 ```./main.exe```
 
 ---
